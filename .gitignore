@@ -1,0 +1,14 @@
+*.pyc
+*.log
+*.dll
+*.lib
+*.exe
+.idea
+Thumbs.db
+__pycache__
+/__pycache__
+__pycache__/
+media/
+media/django_cache
+desktop_app
+django_cache
